@@ -30,6 +30,6 @@ This repository preserves my Java and DSA learning journey, including concepts, 
 
 > This is a learning archive rather than a production project. The code reflects different stages of my learning.
 
-## 🔒 Repository
+## 🌐 Repository
 
-This repository is maintained as a **private learning archive**.
+This repository is publicly available to document my Java and Data Structures & Algorithms learning journey, including practice implementations, concepts, and solved problems.
